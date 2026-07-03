@@ -4,7 +4,7 @@ function Header() {
   return (
     <div className="header">
       <div className="header-buttons">
-        {/* <button className="currency">NGN</button> */}
+       
 
         <button className="login">Login</button>
       </div>
@@ -12,4 +12,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Header

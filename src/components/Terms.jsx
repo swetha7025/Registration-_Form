@@ -44,4 +44,4 @@ function Terms(){
 
 }
 
-export default Terms;
+export default Terms
